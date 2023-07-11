@@ -133,8 +133,8 @@
   .home__content {
     grid-template-columns: 0.5fr 3fr;
     padding-top: 1.5rem;
-    position: absolute;
-    top: 0;
+    /* position: absolute; */
+    /* top: 0; */
   }
   .home__img {
     order: initial;
