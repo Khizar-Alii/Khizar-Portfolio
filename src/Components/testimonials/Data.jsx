@@ -8,20 +8,20 @@ import Image3 from '../../assets/testimonial3.png'
 export const Data = [
     {
         id : 1,
-        image : Image1,
+        image : Image2,
         title : "Jhon Doe",
-        description : 'A really good job, all aspects of the project were followed step by step and with good results'
+        description : "Absolutely impressed by the constant support and seamless communication. The dedication and effort shown were beyond expectations. A big thank you for your exceptional work!"
     },
     {
         id : 2,
-        image : Image2,
+        image : Image1,
         title : "Jacob Agostoni",
-        description : 'A really good job, all aspects of the project were followed step by step and with good results'
+        description : "Constant help and quick and easy communication. He followed me step by step and even worked harder than he should have.Thank you very much for your work!"
     },
     {
         id : 3,
         image : Image3,
         title : "Sara Cill",
-        description : 'A really good job, all aspects of the project were followed step by step and with good results'
+        description : "Effortless communication and unwavering assistance. Step by step guidance and dedication beyond expectations. Grateful for your outstanding contributions!"
     }
 ]

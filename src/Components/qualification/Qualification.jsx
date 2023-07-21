@@ -46,7 +46,7 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Design</h3>
+                <h3 className="qualification__title">Bachelor's in Computer science</h3>
                 <span className="qualification__subtitle">
                   Hazara University Mansehra
                 </span>
@@ -67,24 +67,24 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
+                <h3 className="qualification__title">React JS Expert</h3>
                 <span className="qualification__subtitle">
-                  Hazara University Mansehra
+                SkillUP by Simplilearn
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                  <i className="uil uil-calendar-alt"></i> 16 Dec - 2022
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
+                <h3 className="qualification__title">HTML JavaScript, & Bootstrap</h3>
                 <span className="qualification__subtitle">
-                  Hazara University Mansehra
+                  Udemy
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2018 - 2020
+                  <i className="uil uil-calendar-alt"></i> 14 Dec - 2022
                 </div>
               </div>
               <div>
@@ -100,12 +100,12 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">UX Expert</h3>
+                <h3 className="qualification__title">CSS Expert</h3>
                 <span className="qualification__subtitle">
-                  Hazara University Mansehra
+                  SkillUP by Simplilearn
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2017 - 2018
+                  <i className="uil uil-calendar-alt"></i> 03 Sep 2022
                 </div>
               </div>
             </div>
@@ -120,12 +120,12 @@ const Qualification = () => {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Product Designer</h3>
+                <h3 className="qualification__title">Web Development</h3>
                 <span className="qualification__subtitle">
-                  Microsoft - Spain
+                  Let's Grow More - India
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> 1 Month Internship
                 </div>
               </div>
               <div>
@@ -141,22 +141,22 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">UX Designer</h3>
+                <h3 className="qualification__title">React + Next JS</h3>
                 <span className="qualification__subtitle">
-                  Apple Inc - Spain
+                  Bytewise Limited
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2021
+                  <i className="uil uil-calendar-alt"></i> 3 Months Internship
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Designer</h3>
-                <span className="qualification__subtitle">Figma - Spain</span>
+                <h3 className="qualification__title">Social Media Management and Content Curation</h3>
+                <span className="qualification__subtitle">Self Employed</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2018 - 2020
+                  <i className="uil uil-calendar-alt"></i> 2023 Present
                 </div>
               </div>
               <div>
